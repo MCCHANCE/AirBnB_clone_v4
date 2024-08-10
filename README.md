@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 FRINGS NYONG
+
 Hamza Otman
 
 

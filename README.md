@@ -155,7 +155,13 @@ No known bugs at this time.
 
 ## Authors
 FRINGS NYONG
+<<<<<<< HEAD
 Hamza Otmani
+=======
+
+Hamza Otman
+
+>>>>>>> 55eda98a6af2803eb9919833b36e8ab3f4ed3914
 
 Second part of Airbnb: Joann Vuong
 ## License
